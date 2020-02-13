@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16689" started-at="2020-02-13T08:47:45Z" finished-at="2020-02-13T08:48:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16689" started-at="2020-02-13T08:47:45Z" finished-at="2020-02-13T08:48:02Z">
+      <class name="com.app.tests.SignuUpPagetest">
+        <test-method status="PASS" signature="readConfig(org.testng.ITestContext)[pri:0, instance:com.app.tests.SignuUpPagetest@148080bb]" name="readConfig" is-config="true" duration-ms="111" started-at="2020-02-13T14:17:45Z" finished-at="2020-02-13T14:17:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@35b74c5c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readConfig -->
+        <test-method status="PASS" signature="openApplicationUnderTest()[pri:0, instance:com.app.tests.SignuUpPagetest@148080bb]" name="openApplicationUnderTest" is-config="true" duration-ms="14371" started-at="2020-02-13T14:17:45Z" finished-at="2020-02-13T14:18:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplicationUnderTest -->
+        <test-method status="PASS" signature="testUserSignuUp()[pri:0, instance:com.app.tests.SignuUpPagetest@148080bb]" name="testUserSignuUp" duration-ms="2114" started-at="2020-02-13T14:18:00Z" finished-at="2020-02-13T14:18:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUserSignuUp -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.app.tests.SignuUpPagetest@148080bb]" name="closeDriver" is-config="true" duration-ms="83" started-at="2020-02-13T14:18:02Z" finished-at="2020-02-13T14:18:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.app.tests.SignuUpPagetest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
